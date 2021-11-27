@@ -1,0 +1,3 @@
+- Hi, I’m @tsoukman
+- I’m interested in game development
+- I’m currently learning game development
